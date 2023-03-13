@@ -69,3 +69,12 @@ memberstack.getCurrentMember().then(({ data: member }) => {
 
 
 </script>
+
+
+<div style="display:none; height:40px; position:fixed; bottom:0%; width:100%; background-color: #ffffff; opacity:0;" data-ms-loader="true">
+  
+<script>
+  
+ // I also reduced the size of the toast content (data-ms-message=success) and changed it to show a cloud and say "changes saved" 
+  
+</script>
